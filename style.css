@@ -45,6 +45,20 @@ li a:hover:not(.active){
     background-color: #0070b7;
 }
 
-img{
-    margin: 5px;
+img, iframe{
+    display: block;
+    margin: auto;
+}
+
+p#image{
+    float: left;
+    border: 5px;
+}
+
+a#textlink{
+    color: #444b54;
+}
+
+p#description{
+    margin: 15px;
 }
