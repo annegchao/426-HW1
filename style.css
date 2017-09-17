@@ -5,19 +5,16 @@ h1{
     margin-bottom: 0px;
 }
 
+body{
+    background-color: tan;
+    margin: 0px;
+}
+
 p#subheading{
     margin-top: 0px;
     text-align: center;
     font-size: 25px;
     font-family: garamond;
-}
-
-p#description{
-    
-}
-
-img{
-    justify-content: center;
 }
 
 ul{
@@ -46,4 +43,8 @@ li a:hover:not(.active){
 
 .active{
     background-color: #0070b7;
+}
+
+img{
+    margin: 5px;
 }
